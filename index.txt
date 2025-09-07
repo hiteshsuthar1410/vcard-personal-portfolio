@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Hitesh Suthar
+Hitesh Suthar
+iOS Developer
 
 Show Contacts
 
 Email
-richard@example.com
+hiteshsuthar1410@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (91) 7891092832
 
 Birthday
-June 23, 1982
+October 14, 1998
 
 Location
-Sacramento, California, USA
+Jaipur, India
 
 # navbar
 
